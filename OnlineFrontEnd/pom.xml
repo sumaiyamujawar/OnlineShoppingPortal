@@ -9,7 +9,7 @@
 	<url>http://maven.apache.org</url>
 	<properties>
 		<javaee.version>7.0</javaee.version>
-		<spring.version>4.3.7</spring.version>
+		<spring.version>4.3.7.RELEASE</spring.version>
 	</properties>
 	<dependencies>
 		<!-- JavaEE -->
@@ -32,8 +32,9 @@
 		<dependency>
 			<groupId>org.springframework</groupId>
 			<artifactId>spring-webmvc</artifactId>
-			<version>${spring.version}</version>
+			<version>4.3.7.RELEASE</version>
 		</dependency>
+
 
 
 	</dependencies>
